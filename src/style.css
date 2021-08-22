@@ -120,9 +120,12 @@ h2 {
 }
 
 a {
-    color: white;
+    color: #f8f5c6;
+    font-weight: 600;
 }
 
 a:hover {
-    color: #26f3d1;
+    color: #faf604;
+
+
 }
