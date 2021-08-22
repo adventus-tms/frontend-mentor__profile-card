@@ -111,3 +111,14 @@ h2 {
 .right-info {
     margin-right: 50px;
 }
+
+/* attribution */
+.attribution {
+    color: #dfe4ee;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+a {
+    color: white;
+}
